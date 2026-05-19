@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Saksham+Jamwal+%F0%9F%91%8B;Full+Stack+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Saksham+Jamwal+%F0%9F%91%8B;Software+Developer;Creative+Coder;Problem+Solver" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/sakshamjamwal/">
@@ -23,10 +23,9 @@
 
 Results-driven Full Stack Developer with hands-on experience building scalable web applications using **React.js**, **Vue.js**, **Node.js**, and **MongoDB**. Currently pursuing **MCA at LPU** while working as a **Software Developer at Akaal Creatives LLP**.
 
-- 🔭 Currently working on client projects at **Akaal Creatives LLP**
+- 🔭 Currently working as Software Developer at **Akaal Creatives LLP**
 - 🎓 Pursuing **MCA** at Lovely Professional University (2024–2026)
-- 📝 Published **2 research papers** in IJSDR
-- 🌍 Based in **Udhampur, Jammu & Kashmir, India**
+- 🌍 **Udhampur, Jammu & Kashmir, India**
 - 📫 Reach me at **sakshamjamwal723@gmail.com**
 
 ---
@@ -56,32 +55,6 @@ Results-driven Full Stack Developer with hands-on experience building scalable w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-073&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-073&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saksham-073&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **Jackett** | Modern torrent proxy server with clean UI | Vue.js · Tailwind CSS · API | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saksham-073/Jackett) |
-| **Domain Search** | Responsive domain availability checker | React.js · Tailwind CSS · API | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat&logo=vercel&logoColor=white)](https://domain-search-omega.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saksham-073/domain_search) |
-| **Health Website** | Full-stack platform with doctor profiles & appointment scheduling | React.js · Prisma · Tailwind CSS | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/ujjw98/Health_plus) |
-| **E-Commerce** | High-performance static e-commerce storefront | React.js · Node.js · Tailwind CSS | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat&logo=vercel&logoColor=white)](https://e-commerce-one-mu-34.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saksham-073/E-commerce) |
-| **FoodApp** | Dynamic food ordering app with real-time tracking | Vue.js · Tailwind CSS · API | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saksham-073/FoodOrdering) |
-| **I-NOTEBOOK** | Notes platform with auth & full CRUD | React.js · MongoDB · Tailwind CSS | [![Demo](https://img.shields.io/badge/Demo-6366F1?style=flat&logo=vercel&logoColor=white)](https://i-notebook-7.netlify.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saksham-073/i-notebook-frontend) |
 
 ---
 
