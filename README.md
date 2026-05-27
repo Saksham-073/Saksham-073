@@ -21,10 +21,9 @@
 
 ## 👨‍💻 About Me
 
-Results-driven Full Stack Developer with hands-on experience building scalable web applications using **React.js**, **Vue.js**, **Node.js**, and **MongoDB**. Currently pursuing **MCA at LPU** while working as a **Software Developer at Akaal Creatives LLP**.
+Results-driven Full Stack Developer with hands-on experience building scalable web applications using **Vue.js**, **React.js**, **Node.js**, and **PostgreSQL**. Currently working as a **Software Developer at Akaal Creatives LLP**.
 
 - 🔭 Currently working as Software Developer at **Akaal Creatives LLP**
-- 🎓 Pursuing **MCA** at Lovely Professional University (2024–2026)
 - 🌍 **Udhampur, Jammu & Kashmir, India**
 - 📫 Reach me at **sakshamjamwal723@gmail.com**
 
