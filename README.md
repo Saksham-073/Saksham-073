@@ -9,7 +9,7 @@
   <a href="mailto:sakshamjamwal723@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-saksham-073s-projects.vercel.app">
+  <a href="https://sakshamjamwal.com">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Saksham-073&style=for-the-badge&color=6366F1" />
@@ -77,7 +77,7 @@ React Developer Intern  @ Himtreasures Infotech LLP     June 2023 – August 202
 <div align="center">
   <i>Open to exciting opportunities — let's build something great together!</i>
   <br/><br/>
-  <a href="https://portfolio-saksham-073s-projects.vercel.app">
+  <a href="https://sakshamjamwal.com">
     <img src="https://img.shields.io/badge/View_Full_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
