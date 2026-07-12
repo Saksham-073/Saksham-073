@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven Full Stack Developer with hands-on experience building scalable web applications using **Vue.js**, **React.js**, **Node.js**, and **PostgreSQL**. Currently working as a **Software Developer at Akaal Creatives LLP**.
+Results-driven Full Stack Developer with hands-on experience building scalable web applications using **Vue.js**, **React.js**, **Node.js**, **Laravel** and **PostgreSQL**. Currently working as a **Software Developer at Akaal Creatives LLP**.
 
 - 🔭 Currently working as Software Developer at **Akaal Creatives LLP**
 - 🌍 **Udhampur, Jammu & Kashmir, India**
