@@ -23,7 +23,7 @@
 
 Results-driven Software Engineer with hands-on experience building scalable web applications using **Vue.js**, **React.js**, **Node.js**, **Laravel** and **PostgreSQL**. Currently working as a **Software Developer at Akaal Creatives LLP**.
 
-- 🔭 Currently working as Software Developer at **Akaal Creatives LLP**
+- 🔭 Currently working as Software Developer at **Akaal Creatives LLP, Jalandhar**
 - 🌍 **Udhampur, Jammu & Kashmir, India**
 - 📫 Reach me at **sakshamjamwal723@gmail.com**
 
