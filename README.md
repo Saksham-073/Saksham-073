@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Saksham+Jamwal+%F0%9F%91%8B;Full-Stack+Developer+(Vue+%C2%B7+React+%C2%B7+Laravel);Building+web+apps+at+Akaal+Creatives;From+database+schema+to+polished+UI" alt="Typing intro: Hi, I'm Saksham Jamwal, Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Saksham+Jamwal+%F0%9F%91%8B;Software+Engineer+%E2%80%94+Frontend+%2F+Full+Stack;Vue+3+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Laravel;Building+real-time+web+apps" alt="Typing intro: Hi, I'm Saksham Jamwal, Software Engineer — Frontend / Full Stack" />
 
 <p>
   <a href="https://sakshamjamwal.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -14,37 +14,44 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer who enjoys taking a feature all the way from database schema to finished UI. At **Akaal Creatives LLP** I build <!-- e.g. client dashboards, booking systems, admin panels --> with **Vue.js**, **Laravel** and **PostgreSQL**, and on my own I like building with **React** and **Node.js**.
+I'm a software engineer with nearly two years of experience shipping production web apps across **healthtech**, **SaaS** and **real-time** products. I work across the stack — building interfaces in **Vue 3**, **React** and **TypeScript**, designing REST APIs in **Laravel** and **Node.js**, and handling auth and data modelling — with a focus on clean, reusable frontend architecture.
 
-- 🔭 Currently: Software Developer at **Akaal Creatives LLP**, Jalandhar
-- 🌱 Learning: <!-- e.g. TypeScript, system design, Docker -->
-- 🤝 Open to: <!-- e.g. full-time full-stack roles · freelance projects -->
+- 🔭 Currently: Software Engineer at **Akaal Creatives LLP**, Jalandhar
+- 🎓 MCA, Lovely Professional University (2026)
+- 💬 Ask me about: Vue 3 + Pinia, real-time apps with WebSockets, Laravel APIs
 - 📍 Udhampur, Jammu & Kashmir, India
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace with your 2–4 best projects. One specific line each: who it's for and what it does. Numbers help. -->
+### 💬 [ChatApp](https://chat.sakshamjamwal.com) — Real-time messaging platform
+Room-based group chat, direct messages, and **voice & video calling** over WebSockets. I built both sides: a Vue 3 + Pinia frontend and a Laravel backend with auth and real-time broadcasting via Laravel Echo and Pusher. Features a Three.js 3D particle login screen, glass-morphism UI, and Vitest unit tests. Live in production.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Project One**](https://github.com/Saksham-073/REPO) · [Live](https://LIVE-LINK) | One line on the problem it solves and for whom | Vue · Laravel · PostgreSQL |
-| [**Project Two**](https://github.com/Saksham-073/REPO) · [Live](https://LIVE-LINK) | e.g. "Real-time dashboard used by 300+ users" | React · Node.js · Prisma |
-| [**Project Three**](https://github.com/Saksham-073/REPO) | One line on what's interesting about it | Next.js · MongoDB |
+`Vue 3` `TypeScript` `Pinia` `Laravel` `PostgreSQL` `WebSockets` `Three.js` `Tailwind v4`
+
+### 🔎 [Jackett UI](https://github.com/Saksham-073/Jackett) — Modern torrent proxy web interface
+Open-source frontend that runs **concurrent searches across multiple indexers**, cutting multi-source query time. Rebuilt the layout for mobile while keeping full backward API compatibility.
+
+`Vue 3` `TypeScript` `Tailwind CSS` `REST API`
+
+### 🌐 [Domain Search](https://domain-search-xi.vercel.app) — Domain availability checker
+Real-time domain lookups against live APIs, with **debounced input and request caching** to cut redundant calls and keep results fast.
+
+`React` `JavaScript` `Tailwind CSS` `REST API`
 
 ---
 
 ## 💼 Experience
 
-**Software Developer** · Akaal Creatives LLP · *Jul 2025 – Present*
-<!-- One line of impact, e.g. "Built and shipped X client projects with Vue + Laravel; cut page load time by Y%." -->
+**Software Engineer** · Akaal Creatives LLP · *Jul 2025 – Present*
+Shipped 10+ production features with Vue 3 and TypeScript across concurrent client projects, integrating REST APIs and session/JWT auth in a code-reviewed, CI-checked PR workflow.
 
-**Full Stack Developer** · Fifth Eye Eduvision Pvt. Ltd. · *Mar 2025 – May 2025*
-<!-- One line of impact, e.g. "Developed features for an ed-tech platform serving N students." -->
+**Full Stack Developer** · Fifth Eye Eduvision Pvt. Ltd. (Healthtech) · *Apr 2025 – Jun 2025*
+Built a healthcare platform end to end with React, Node.js and Prisma — including scheduling, doctor profiles and patient management modules that reduced manual admin work for clinical staff.
 
 **React Developer Intern** · Himtreasures Infotech LLP · *Jun 2023 – Aug 2023*
-<!-- One line of impact, e.g. "Built reusable React components for client websites." -->
+Built a cloud notes app with React, Node.js and MongoDB, with reusable CRUD components and user authentication.
 
 ---
 
@@ -52,19 +59,22 @@ I'm a full-stack developer who enjoys taking a feature all the way from database
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 **Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher_·_WebSockets-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 **Databases**
 
@@ -72,21 +82,21 @@ I'm a full-stack developer who enjoys taking a feature all the way from database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools**
+**Testing & DevOps**
 
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-<!-- If you use TypeScript, add:
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
--->
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📄 Publications
 
-- **Smart Traffic Management System: Enhancing Safety at Zebra Crossing** · *IJSDR* · [Read →](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2410031)
-- **Revolutionizing Vertical Transport: A Comprehensive Study on the Evolution and Optimization of Elevators** · *IJSDR* · [Read →](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2407036)
+- **Smart Traffic Management System: Enhancing Safety at Zebra Crossing** · *IJSDR, Oct 2024* · [Read →](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2410031)
+- **Revolutionizing Vertical Transport: A Comprehensive Study on the Evolution and Optimization of Elevators** · *IJSDR, Jul 2024* · [Read →](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2407036)
 
 ---
 
